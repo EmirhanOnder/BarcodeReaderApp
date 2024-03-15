@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">projedeneme</string>
+    <string name="tab1">Barcode</string>
+    <string name="tab2">Product</string>
+    <string name="tab3">About</string>
+    <string name="barcode_input_hint">Enter barcode number</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="input_barcode">Input Barcode</string>
+    <string name="barcode_initial">No Barcode Provided Yet</string>
+    <string name="about_description">Developer Info :\n\nEmirhan Önder\n\n20190702008\n\n\nCSE 476\n\nMobile Application Development\n\nTerm Project</string>
+    <string name="product_image">ImageOfProduct</string>
+    <string name="view_more">Go To Website</string>
+    <string name="show_on_map">See On Maps</string>
+</resources>

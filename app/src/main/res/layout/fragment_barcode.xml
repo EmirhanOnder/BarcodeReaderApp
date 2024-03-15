@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BarcodeFragment">
+
+    <Button
+        android:id="@+id/btnScan"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/custom_button"
+        android:gravity="center"
+        android:text="@string/scan_barcode"
+        android:textColor="#2C3E50"
+
+        android:translationX="125dp"
+        android:translationY="290dp" />
+
+
+</LinearLayout>
